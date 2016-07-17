@@ -1,2 +1,2 @@
-# Vost
-I am studying Electronic Engineering, however, I enjoy develop java programs all the time.
+# IMARúM
+IMARúM is a project to help to make mensual report of appointments in the "Unidad Medica el Molino"
